@@ -1,3 +1,3 @@
 # at-me
 
-A twitter bot written in Javascript!
+A simple Twitter clone built using Node.js, React.js and  MongoDB. 
